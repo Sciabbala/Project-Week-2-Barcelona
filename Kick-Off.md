@@ -144,5 +144,6 @@ But you could also to propose an *analytic* question as: Is my neighbourhood the
 * More cultural events
 * More schools
 * ...
+
 You will need to propose the way you are trying to answer the question.
 This is very interesting and you will keep doing this for the rest of the bootcamp.
