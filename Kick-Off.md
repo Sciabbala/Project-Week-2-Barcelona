@@ -135,3 +135,14 @@ You will have 10 minutes to present your project. After all the presentations ar
 * First the question. After the data.
 * Before starting to write code, think about the analysis you would like to do (workflow).
 * You will have more questions than answers. Don't worry, even if you can't answer any of your questions. Just show us why you couldn't answer something -- that itself will be  interesting!
+
+## Proposing questions
+For example, we are doing a project about the population in Barcelona.
+We could do, for example, a *descriptive* question as: How many people there is in my neighbourhood? And you would need to look for the data for that.
+But you could also to propose an *analytic* question as: Is my neighbourhood the best? Here you would need to think how could you answer it, the *best* word is the key. Could mean:
+* Safer
+* More cultural events
+* More schools
+* ...
+You will need to propose the way you are trying to answer the question.
+This is very interesting and you will keep doing this for the rest of the bootcamp.
