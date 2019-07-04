@@ -1,0 +1,356 @@
+,id,neighbourhood_group_cleansed,price,neighbourhood_cleansed,accommodates,availability_365,minimum_nights,revenue
+0,11368,Ciutat Vella,100.0,"Sant Pere, Santa Caterina i la Ribera",4,290,33,625.0
+79,144801,Ciutat Vella,80.0,"Sant Pere, Santa Caterina i la Ribera",4,331,30,226.67
+120,206846,Ciutat Vella,98.0,"Sant Pere, Santa Caterina i la Ribera",2,220,31,1184.17
+200,302440,Ciutat Vella,40.0,el Raval,4,194,32,570.0
+233,357576,Gràcia,75.0,la Vila de Gràcia,6,256,32,681.25
+277,417239,Gràcia,97.0,la Vila de Gràcia,5,287,30,630.5
+298,448794,Ciutat Vella,90.0,el Raval,6,363,30,15.0
+333,484390,Eixample,25.0,la Sagrada Família,2,114,31,522.92
+425,567962,Sants-Montjuïc,53.0,la Bordeta,3,364,32,4.42
+458,594965,Ciutat Vella,42.0,la Barceloneta,2,301,32,224.0
+593,732214,Ciutat Vella,46.0,la Barceloneta,4,318,31,180.17
+655,776174,Ciutat Vella,56.0,el Barri Gòtic,4,102,32,1227.33
+671,791717,Sant Martí,110.0,el Poblenou,4,271,32,861.67
+700,824902,Eixample,80.0,la Sagrada Família,5,236,32,860.0
+702,827250,Eixample,135.0,la Sagrada Família,4,220,32,1631.25
+831,927148,Ciutat Vella,70.0,el Barri Gòtic,4,286,32,460.83
+858,938557,Eixample,80.0,Sant Antoni,2,117,32,1653.33
+1039,1084712,Sarrià-Sant Gervasi,75.0,Sant Gervasi - la Bonanova,2,315,32,312.5
+1545,1642736,Sants-Montjuïc,30.0,Sants,3,235,32,325.0
+1576,1691141,Eixample,96.0,la Nova Esquerra de l'Eixample,5,363,30,16.0
+1642,1817640,Gràcia,75.0,la Vila de Gràcia,6,317,32,300.0
+1710,1916297,Gràcia,85.0,la Vila de Gràcia,4,0,31,2585.42
+1725,1938408,Gràcia,78.0,la Vila de Gràcia,2,358,32,45.5
+1753,2003024,Ciutat Vella,85.0,el Barri Gòtic,5,319,31,325.83
+1787,2054129,Ciutat Vella,65.0,el Barri Gòtic,4,247,35,639.17
+2100,2530059,Ciutat Vella,125.0,el Raval,3,239,31,1312.5
+2269,2809378,Ciutat Vella,38.0,la Barceloneta,3,264,31,319.83
+2305,2930798,Ciutat Vella,27.0,la Barceloneta,2,282,31,186.75
+2360,3019711,Sants-Montjuïc,44.0,Sants,1,45,32,1173.33
+2515,3250179,Eixample,70.0,Sant Antoni,5,332,32,192.5
+2521,3255204,Gràcia,46.0,la Vila de Gràcia,2,97,32,1027.33
+2534,3276856,Ciutat Vella,80.0,el Raval,3,225,31,933.33
+2640,3431763,Ciutat Vella,65.0,"Sant Pere, Santa Caterina i la Ribera",5,196,32,915.42
+2686,3493834,Eixample,150.0,el Fort Pienc,3,243,32,1525.0
+2741,3582210,Sarrià-Sant Gervasi,50.0,Sant Gervasi - Galvany,5,231,30,558.33
+2866,3813714,Les Corts,60.0,les Corts,6,256,31,545.0
+2884,3831664,Ciutat Vella,95.0,"Sant Pere, Santa Caterina i la Ribera",5,365,32,0.0
+2933,3936390,Gràcia,80.0,Vallcarca i els Penitents,3,293,32,480.0
+2990,4054602,Horta-Guinardó,10.0,Can Baró,3,365,31,0.0
+3009,4134025,Ciutat Vella,46.0,el Raval,4,264,31,387.17
+3015,4141367,Eixample,70.0,la Nova Esquerra de l'Eixample,4,263,32,595.0
+3059,4249935,Sants-Montjuïc,45.0,el Poble Sec,4,316,70,183.75
+3091,4354142,Eixample,60.0,la Dreta de l'Eixample,4,283,32,410.0
+3215,4668430,Gràcia,95.0,la Vila de Gràcia,4,276,32,704.58
+3221,4685002,Les Corts,45.0,la Maternitat i Sant Ramon,4,0,32,1368.75
+3436,5209513,Gràcia,80.0,la Vila de Gràcia,2,314,31,340.0
+3571,5468510,Eixample,55.0,la Sagrada Família,6,323,32,192.5
+3592,5519285,Gràcia,65.0,la Vila de Gràcia,5,159,31,1115.83
+3739,5908217,Sant Martí,26.0,el Besòs i el Maresme,4,146,32,474.5
+3761,5975898,Ciutat Vella,70.0,"Sant Pere, Santa Caterina i la Ribera",2,232,31,775.83
+3768,5996208,Sant Martí,31.0,el Besòs i el Maresme,4,286,32,204.08
+3803,6096237,Eixample,70.0,l'Antiga Esquerra de l'Eixample,4,342,32,134.17
+3804,6096609,Sarrià-Sant Gervasi,55.0,Sant Gervasi - Galvany,2,197,32,770.0
+3839,6178385,Gràcia,55.0,Vallcarca i els Penitents,5,39,32,1494.17
+3960,6459592,Ciutat Vella,44.0,el Barri Gòtic,4,101,31,968.0
+4139,6774451,Eixample,51.0,la Nova Esquerra de l'Eixample,4,59,31,1300.5
+4242,6943632,Sant Martí,115.0,el Poblenou,4,355,32,95.83
+4414,7297678,Eixample,70.0,la Nova Esquerra de l'Eixample,4,331,33,198.33
+4589,7659740,Ciutat Vella,41.0,el Raval,4,247,31,403.17
+4653,7793455,Ciutat Vella,40.0,"Sant Pere, Santa Caterina i la Ribera",4,245,32,400.0
+4663,7824065,Eixample,45.0,la Nova Esquerra de l'Eixample,2,50,32,1181.25
+4981,8517753,Ciutat Vella,140.0,el Barri Gòtic,4,349,32,186.67
+5027,8661298,Ciutat Vella,37.0,el Raval,2,42,31,995.92
+5028,8661616,Ciutat Vella,40.0,el Raval,2,75,31,966.67
+5031,8662474,Eixample,38.0,la Dreta de l'Eixample,4,84,31,889.83
+5086,8804801,Ciutat Vella,40.0,la Barceloneta,2,151,60,713.33
+5135,8929591,Ciutat Vella,67.0,el Barri Gòtic,4,162,31,1133.42
+5181,9048372,Les Corts,119.0,la Maternitat i Sant Ramon,6,365,32,0.0
+5214,9148404,Ciutat Vella,48.0,el Raval,2,109,32,1024.0
+5227,9190009,Ciutat Vella,45.0,la Barceloneta,2,125,32,900.0
+5380,9606741,Ciutat Vella,39.0,el Raval,3,94,40,880.75
+5482,9869471,Ciutat Vella,65.0,la Barceloneta,3,307,32,314.17
+5522,9937100,Ciutat Vella,89.0,el Barri Gòtic,4,235,31,964.17
+5523,9937559,Ciutat Vella,99.0,el Barri Gòtic,6,316,31,404.25
+5548,10005342,Ciutat Vella,31.0,"Sant Pere, Santa Caterina i la Ribera",4,237,31,330.67
+5582,10078923,Ciutat Vella,29.0,la Barceloneta,2,257,31,261.0
+5620,10163333,Ciutat Vella,75.0,la Barceloneta,2,316,32,306.25
+5631,10203560,Ciutat Vella,29.0,la Barceloneta,2,207,31,381.83
+5632,10203916,Ciutat Vella,29.0,la Barceloneta,2,238,31,306.92
+5640,10238081,Ciutat Vella,153.0,"Sant Pere, Santa Caterina i la Ribera",6,301,31,816.0
+5650,10265669,Ciutat Vella,46.0,el Barri Gòtic,4,248,31,448.5
+5665,10374992,Ciutat Vella,30.0,"Sant Pere, Santa Caterina i la Ribera",2,150,32,537.5
+5690,10513910,Ciutat Vella,39.0,"Sant Pere, Santa Caterina i la Ribera",3,205,31,520.0
+5760,10692920,Ciutat Vella,40.0,el Barri Gòtic,4,260,32,350.0
+5812,10823019,Ciutat Vella,95.0,"Sant Pere, Santa Caterina i la Ribera",4,225,32,1108.33
+5839,10878390,Sant Martí,47.0,Diagonal Mar i el Front Marítim del Poblenou,4,332,32,129.25
+5845,10891462,Eixample,122.0,la Nova Esquerra de l'Eixample,5,359,32,61.0
+5891,11007289,Ciutat Vella,66.0,el Barri Gòtic,4,263,32,561.0
+5904,11039131,Sants-Montjuïc,106.0,Sants,3,155,30,1855.0
+5905,11042861,Ciutat Vella,52.0,"Sant Pere, Santa Caterina i la Ribera",6,262,32,446.33
+5932,11116037,Ciutat Vella,47.0,el Barri Gòtic,2,103,32,1026.17
+5969,11174833,Ciutat Vella,65.0,"Sant Pere, Santa Caterina i la Ribera",4,343,32,119.17
+5976,11193351,Eixample,52.0,la Nova Esquerra de l'Eixample,3,340,31,108.33
+6015,11264883,Sant Martí,50.0,Provençals del Poblenou,4,16,32,1454.17
+6018,11271011,Gràcia,50.0,el Camp d'en Grassot i Gràcia Nova,4,50,31,1312.5
+6050,11313906,Ciutat Vella,45.0,el Raval,2,320,32,168.75
+6082,11348543,Sants-Montjuïc,75.0,el Poble Sec,4,222,31,893.75
+6087,11350322,Ciutat Vella,61.0,el Barri Gòtic,2,365,32,0.0
+6124,11428143,Ciutat Vella,117.0,el Barri Gòtic,6,257,32,1053.0
+6164,11550809,Eixample,90.0,Sant Antoni,4,50,32,2362.5
+6248,11747722,Ciutat Vella,48.0,el Raval,4,137,31,912.0
+6257,11762804,Ciutat Vella,95.0,el Barri Gòtic,2,321,32,348.33
+6289,11857224,Gràcia,90.0,la Vila de Gràcia,2,257,31,810.0
+6300,11876782,Ciutat Vella,27.0,el Barri Gòtic,3,120,32,551.25
+6312,11895870,Eixample,60.0,la Sagrada Família,5,254,32,555.0
+6327,11938945,Eixample,56.0,la Nova Esquerra de l'Eixample,4,305,32,280.0
+6496,12406643,Ciutat Vella,32.0,la Barceloneta,2,0,60,973.33
+6535,12510909,Sant Martí,50.0,el Besòs i el Maresme,3,335,32,125.0
+6539,12517139,Ciutat Vella,50.0,el Raval,4,364,33,4.17
+6570,12588632,Eixample,10.0,la Sagrada Família,4,356,31,7.5
+6572,12594903,Ciutat Vella,50.0,el Raval,2,326,32,162.5
+6800,13103577,Ciutat Vella,180.0,el Barri Gòtic,6,365,32,0.0
+6806,13108452,Ciutat Vella,41.0,"Sant Pere, Santa Caterina i la Ribera",2,72,31,1001.08
+6899,13252833,Gràcia,90.0,la Vila de Gràcia,2,212,31,1147.5
+6935,13279313,Ciutat Vella,139.0,el Barri Gòtic,6,222,31,1656.42
+6942,13288767,Ciutat Vella,65.0,"Sant Pere, Santa Caterina i la Ribera",3,350,32,81.25
+7003,13368075,Sarrià-Sant Gervasi,63.0,Sant Gervasi - Galvany,2,365,32,0.0
+7024,13404925,Ciutat Vella,27.0,el Barri Gòtic,2,210,32,348.75
+7077,13502848,Ciutat Vella,70.0,el Barri Gòtic,4,365,32,0.0
+7132,13569972,Ciutat Vella,65.0,"Sant Pere, Santa Caterina i la Ribera",3,124,31,1305.42
+7188,13647725,Ciutat Vella,51.0,la Barceloneta,4,283,32,348.5
+7190,13648568,Ciutat Vella,72.0,"Sant Pere, Santa Caterina i la Ribera",4,328,32,222.0
+7215,13678318,Sants-Montjuïc,45.0,la Bordeta,4,165,31,750.0
+7229,13694580,Ciutat Vella,190.0,el Raval,2,125,32,3800.0
+7275,13748950,Ciutat Vella,52.0,el Raval,5,203,32,702.0
+7323,13811701,Eixample,180.0,la Dreta de l'Eixample,4,321,32,660.0
+7352,13838321,Ciutat Vella,80.0,el Barri Gòtic,4,327,32,253.33
+7359,13853803,Ciutat Vella,60.0,el Barri Gòtic,4,334,31,155.0
+7387,13888140,Ciutat Vella,27.0,el Barri Gòtic,2,68,64,668.25
+7459,13992866,Eixample,75.0,Sant Antoni,4,316,32,306.25
+7570,14152120,Ciutat Vella,99.0,el Barri Gòtic,4,239,31,1039.5
+7612,14209613,Ciutat Vella,155.0,"Sant Pere, Santa Caterina i la Ribera",4,365,32,0.0
+7636,14242538,Eixample,60.0,la Nova Esquerra de l'Eixample,3,183,31,910.0
+7677,14308198,Ciutat Vella,116.0,el Raval,2,338,31,261.0
+7749,14422065,Eixample,45.0,el Fort Pienc,2,233,32,495.0
+7768,14462759,Ciutat Vella,70.0,la Barceloneta,3,318,32,274.17
+7865,14669223,Ciutat Vella,50.0,la Barceloneta,3,333,32,133.33
+7899,14766072,Sants-Montjuïc,41.0,Hostafrancs,4,254,32,379.25
+7927,14838313,Ciutat Vella,70.0,el Raval,4,225,40,816.67
+7951,14890990,Sant Martí,60.0,el Poblenou,3,330,31,175.0
+7991,14965028,Ciutat Vella,100.0,"Sant Pere, Santa Caterina i la Ribera",6,364,30,8.33
+8038,15067810,Sants-Montjuïc,90.0,el Poble Sec,4,281,32,630.0
+8063,15136909,Sant Martí,50.0,Diagonal Mar i el Front Marítim del Poblenou,4,275,32,375.0
+8064,15140815,Gràcia,64.0,Vallcarca i els Penitents,5,316,31,261.33
+8108,15261967,Gràcia,61.0,la Vila de Gràcia,4,169,30,996.33
+8124,15321574,Nou Barris,30.0,Verdun,2,296,31,172.5
+8131,15338191,Ciutat Vella,25.0,el Barri Gòtic,2,95,32,562.5
+8141,15364573,Sant Martí,50.0,el Poblenou,5,219,31,608.33
+8208,15546745,Ciutat Vella,45.0,la Barceloneta,3,239,32,472.5
+8235,15597495,Sant Martí,55.0,el Poblenou,4,301,32,293.33
+8342,15826346,Ciutat Vella,27.0,el Barri Gòtic,2,162,32,456.75
+8400,15949165,Sant Martí,70.0,el Besòs i el Maresme,4,323,30,245.0
+8490,16097230,Sant Andreu,55.0,la Sagrera,2,263,32,467.5
+8509,16128469,Ciutat Vella,51.0,el Raval,2,311,31,229.5
+8521,16170106,Sant Martí,45.0,el Camp de l'Arpa del Clot,4,257,32,405.0
+8549,16234280,Ciutat Vella,49.0,"Sant Pere, Santa Caterina i la Ribera",2,344,35,85.75
+8615,16342064,Ciutat Vella,120.0,"Sant Pere, Santa Caterina i la Ribera",4,356,32,90.0
+8654,16388020,Eixample,70.0,la Dreta de l'Eixample,5,357,31,46.67
+8699,16459520,Eixample,112.0,el Fort Pienc,6,14,32,3276.0
+8732,16506765,Ciutat Vella,220.0,la Barceloneta,2,171,32,3556.67
+8752,16556943,Ciutat Vella,99.0,el Barri Gòtic,4,305,31,495.0
+8761,16576575,Ciutat Vella,45.0,"Sant Pere, Santa Caterina i la Ribera",3,280,31,318.75
+8901,16881832,Sants-Montjuïc,106.0,Sants,4,213,30,1342.67
+8921,16913114,Ciutat Vella,35.0,"Sant Pere, Santa Caterina i la Ribera",2,298,35,195.42
+8922,16919723,Ciutat Vella,28.0,el Barri Gòtic,2,50,33,735.0
+8949,16951437,Horta-Guinardó,80.0,el Carmel,3,257,32,720.0
+8953,16951978,Les Corts,100.0,les Corts,4,286,31,658.33
+8963,16967971,Ciutat Vella,125.0,"Sant Pere, Santa Caterina i la Ribera",6,105,31,2708.33
+9014,17040300,Ciutat Vella,39.0,la Barceloneta,3,75,40,942.5
+9022,17051593,Eixample,82.0,l'Antiga Esquerra de l'Eixample,4,289,32,519.33
+9098,17195079,Ciutat Vella,169.0,"Sant Pere, Santa Caterina i la Ribera",6,175,32,2675.83
+9136,17247046,Ciutat Vella,40.0,el Raval,2,317,31,160.0
+9219,17353092,Eixample,53.0,la Dreta de l'Eixample,2,162,31,896.58
+9299,17425721,Ciutat Vella,85.0,"Sant Pere, Santa Caterina i la Ribera",6,75,32,2054.17
+9326,17458927,Eixample,61.0,la Dreta de l'Eixample,3,279,35,437.17
+9426,17630417,Eixample,62.0,la Dreta de l'Eixample,6,345,32,103.33
+9446,17677133,Sarrià-Sant Gervasi,105.0,Sant Gervasi - Galvany,2,171,32,1697.5
+9462,17699503,Sant Martí,45.0,la Verneda i la Pau,3,305,31,225.0
+9515,17784677,Eixample,50.0,la Dreta de l'Eixample,2,228,32,570.83
+9539,17823928,Gràcia,100.0,la Vila de Gràcia,6,79,32,2383.33
+9570,17869698,Sant Martí,50.0,el Camp de l'Arpa del Clot,2,252,32,470.83
+9598,17929979,Ciutat Vella,36.0,el Barri Gòtic,2,218,31,441.0
+9599,17931347,Eixample,60.0,la Dreta de l'Eixample,4,347,31,90.0
+9623,17978221,Sant Martí,105.0,el Poblenou,5,334,31,271.25
+9658,18037035,Ciutat Vella,58.0,"Sant Pere, Santa Caterina i la Ribera",4,317,35,232.0
+9722,18132625,Eixample,45.0,la Sagrada Família,3,69,32,1110.0
+9728,18147216,Gràcia,45.0,la Vila de Gràcia,2,365,35,0.0
+9741,18154978,Sant Martí,72.0,el Poblenou,5,364,31,6.0
+9774,18197251,Eixample,59.0,la Dreta de l'Eixample,2,287,35,383.5
+9935,18426108,Ciutat Vella,41.0,"Sant Pere, Santa Caterina i la Ribera",2,276,32,304.08
+9949,18441918,Ciutat Vella,57.0,"Sant Pere, Santa Caterina i la Ribera",3,187,32,845.5
+9956,18445568,Ciutat Vella,49.0,la Barceloneta,2,213,32,620.67
+10032,18542083,Ciutat Vella,30.0,el Barri Gòtic,3,69,64,740.0
+10038,18549740,Sants-Montjuïc,55.0,el Poble Sec,6,249,32,531.67
+10115,18646668,Ciutat Vella,57.0,el Barri Gòtic,2,322,32,204.25
+10170,18732758,Sants-Montjuïc,65.0,el Poble Sec,4,345,31,108.33
+10305,18881694,Eixample,60.0,Sant Antoni,4,328,32,185.0
+10353,18941102,Ciutat Vella,57.0,la Barceloneta,3,333,30,152.0
+10362,18952363,Ciutat Vella,74.0,la Barceloneta,2,263,35,629.0
+10409,19010803,Gràcia,55.0,la Vila de Gràcia,4,365,35,0.0
+10548,19171251,Sants-Montjuïc,10.0,el Poble Sec,3,365,31,0.0
+10549,19172215,Sants-Montjuïc,10.0,el Poble Sec,4,342,31,19.17
+10571,19192134,Eixample,33.0,l'Antiga Esquerra de l'Eixample,2,76,32,794.75
+10769,19422997,Eixample,58.0,la Dreta de l'Eixample,2,334,31,149.83
+10782,19432305,Ciutat Vella,58.0,el Raval,2,252,32,546.17
+10799,19449109,Ciutat Vella,30.0,el Barri Gòtic,4,74,32,727.5
+10809,19464663,Eixample,95.0,la Dreta de l'Eixample,6,128,32,1876.25
+10998,19656773,Eixample,45.0,Sant Antoni,4,304,31,228.75
+11012,19670949,Sant Martí,58.0,el Camp de l'Arpa del Clot,6,335,32,145.0
+11014,19672314,Sant Martí,61.0,el Camp de l'Arpa del Clot,6,334,32,157.58
+11016,19673387,Sants-Montjuïc,57.0,el Poble Sec,2,270,32,451.25
+11038,19689758,Ciutat Vella,31.0,el Raval,2,312,31,136.92
+11113,19747988,Ciutat Vella,129.0,el Barri Gòtic,6,243,31,1311.5
+11147,19780568,Sant Martí,40.0,la Vila Olímpica del Poblenou,2,112,32,843.33
+11174,19821682,Ciutat Vella,46.0,el Barri Gòtic,4,284,32,310.5
+11252,19901051,Eixample,63.0,Sant Antoni,4,331,32,178.5
+11345,19981280,Ciutat Vella,43.0,la Barceloneta,3,313,31,186.33
+11545,20233640,Horta-Guinardó,78.0,el Carmel,4,33,30,2158.0
+11548,20238733,Ciutat Vella,80.0,"Sant Pere, Santa Caterina i la Ribera",2,304,31,406.67
+11589,20264909,Ciutat Vella,80.0,"Sant Pere, Santa Caterina i la Ribera",2,37,31,2186.67
+11698,20401746,Sarrià-Sant Gervasi,15.0,Sarrià,3,318,31,58.75
+11780,20511348,Sants-Montjuïc,55.0,la Marina de Port,4,92,32,1251.25
+11848,20614422,Ciutat Vella,65.0,"Sant Pere, Santa Caterina i la Ribera",3,347,31,97.5
+11882,20647205,Eixample,59.0,la Nova Esquerra de l'Eixample,4,240,32,614.58
+11917,20717011,Horta-Guinardó,10.0,el Carmel,2,237,31,106.67
+11919,20719000,Ciutat Vella,60.0,el Raval,3,338,31,135.0
+11946,20741740,Eixample,40.0,Sant Antoni,4,287,31,260.0
+11968,20757212,Ciutat Vella,50.0,el Raval,2,306,32,245.83
+12011,20810449,Ciutat Vella,38.0,la Barceloneta,2,160,60,649.17
+12014,20811958,Ciutat Vella,57.0,el Raval,3,364,32,4.75
+12051,20853797,Nou Barris,50.0,les Roquetes,4,240,32,520.83
+12053,20855659,Ciutat Vella,65.0,"Sant Pere, Santa Caterina i la Ribera",3,365,32,0.0
+12078,20894086,Eixample,80.0,l'Antiga Esquerra de l'Eixample,4,143,32,1480.0
+12125,20955879,Sant Martí,60.0,Sant Martí de Provençals,2,285,31,400.0
+12161,20992876,Horta-Guinardó,56.0,el Baix Guinardó,1,92,32,1274.0
+12163,20994829,Sant Martí,65.0,Sant Martí de Provençals,3,46,31,1727.92
+12226,21057215,Gràcia,60.0,la Vila de Gràcia,6,333,32,160.0
+12274,21143859,Sant Martí,80.0,Sant Martí de Provençals,4,347,31,120.0
+12284,21161975,Sant Martí,50.0,el Besòs i el Maresme,6,168,32,820.83
+12324,21207993,Ciutat Vella,42.0,la Barceloneta,3,318,31,164.5
+12329,21214815,Sants-Montjuïc,60.0,Sants,2,283,32,410.0
+12353,21253976,Ciutat Vella,60.0,"Sant Pere, Santa Caterina i la Ribera",2,318,30,235.0
+12365,21273654,Ciutat Vella,60.0,la Barceloneta,4,343,31,110.0
+12404,21310171,Ciutat Vella,32.0,el Raval,4,256,32,290.67
+12462,21389251,Sants-Montjuïc,66.0,Sants,2,61,32,1672.0
+12477,21393496,Sants-Montjuïc,80.0,Sants,4,331,32,226.67
+12495,21408803,Sants-Montjuïc,60.0,Sants,2,325,32,200.0
+12525,21459655,Sant Martí,78.0,el Poblenou,6,365,32,0.0
+12547,21479593,Ciutat Vella,43.0,"Sant Pere, Santa Caterina i la Ribera",4,305,32,215.0
+12655,21629636,Eixample,45.0,Sant Antoni,4,258,32,401.25
+12692,21658948,Ciutat Vella,29.0,el Barri Gòtic,2,52,32,756.42
+12714,21692190,Ciutat Vella,94.0,el Barri Gòtic,6,365,32,0.0
+12739,21710572,Ciutat Vella,50.0,el Raval,3,326,32,162.5
+12925,21874824,Ciutat Vella,103.0,"Sant Pere, Santa Caterina i la Ribera",6,122,32,2085.75
+13005,21956277,Eixample,43.0,el Fort Pienc,2,139,32,809.83
+13075,22039238,Gràcia,42.0,la Vila de Gràcia,3,204,31,563.5
+13085,22062477,Eixample,59.0,l'Antiga Esquerra de l'Eixample,2,333,32,157.33
+13131,22141782,Ciutat Vella,71.0,"Sant Pere, Santa Caterina i la Ribera",6,309,32,331.33
+13140,22154964,Ciutat Vella,71.0,"Sant Pere, Santa Caterina i la Ribera",6,319,32,272.17
+13144,22155702,Ciutat Vella,71.0,"Sant Pere, Santa Caterina i la Ribera",6,284,32,479.25
+13161,22182277,Ciutat Vella,32.0,el Barri Gòtic,3,103,33,698.67
+13179,22199213,Eixample,79.0,l'Antiga Esquerra de l'Eixample,4,163,32,1329.83
+13197,22217914,Sant Martí,45.0,el Camp de l'Arpa del Clot,3,319,32,172.5
+13203,22218923,Ciutat Vella,49.0,el Barri Gòtic,6,269,31,392.0
+13282,22318219,Ciutat Vella,53.0,el Raval,3,337,32,123.67
+13302,22342208,Sarrià-Sant Gervasi,65.0,el Putxet i el Farró,6,260,31,568.75
+13367,22428136,Ciutat Vella,59.0,el Raval,2,179,33,914.5
+13383,22452714,Eixample,40.0,Sant Antoni,2,254,32,370.0
+13385,22458687,Ciutat Vella,65.0,el Raval,2,320,32,243.75
+13399,22464535,Sants-Montjuïc,89.0,el Poble Sec,4,185,31,1335.0
+13421,22515389,Ciutat Vella,37.0,la Barceloneta,4,215,88,462.5
+13527,22668646,Ciutat Vella,10.0,"Sant Pere, Santa Caterina i la Ribera",4,364,31,0.83
+13579,22739717,Ciutat Vella,65.0,el Raval,2,326,32,211.25
+13594,22756444,Ciutat Vella,27.0,el Barri Gòtic,2,95,32,607.5
+13595,22756586,Ciutat Vella,79.0,el Barri Gòtic,4,272,31,612.25
+13607,22767977,Sarrià-Sant Gervasi,47.0,el Putxet i el Farró,4,327,32,148.83
+13616,22784396,Eixample,60.0,la Dreta de l'Eixample,2,347,31,90.0
+13652,22836980,Gràcia,70.0,la Vila de Gràcia,2,365,32,0.0
+13711,22915172,Ciutat Vella,34.0,"Sant Pere, Santa Caterina i la Ribera",2,256,32,308.83
+13747,22947906,Eixample,53.0,la Sagrada Família,6,105,31,1148.33
+13823,23010645,Eixample,65.0,l'Antiga Esquerra de l'Eixample,2,363,60,10.83
+13833,23015638,Sant Martí,76.0,el Clot,4,129,80,1494.67
+13924,23115849,Eixample,100.0,la Sagrada Família,2,258,32,891.67
+13926,23116156,Ciutat Vella,40.0,el Raval,2,330,32,116.67
+13976,23174174,Ciutat Vella,43.0,el Barri Gòtic,2,320,32,161.25
+14009,23198401,Gràcia,65.0,la Vila de Gràcia,5,140,31,1218.75
+14079,23244848,Ciutat Vella,200.0,la Barceloneta,2,267,32,1633.33
+14098,23261617,Eixample,80.0,el Fort Pienc,5,343,33,146.67
+14102,23263764,Eixample,100.0,la Sagrada Família,5,273,32,766.67
+14143,23301371,Sants-Montjuïc,50.0,Sants - Badal,4,168,32,820.83
+14157,23317172,Ciutat Vella,115.0,el Raval,6,304,32,584.58
+14158,23317575,Ciutat Vella,65.0,el Raval,2,323,32,227.5
+14250,23404328,Ciutat Vella,62.0,"Sant Pere, Santa Caterina i la Ribera",2,69,32,1529.33
+14253,23408164,Eixample,74.0,la Sagrada Família,6,348,31,104.83
+14257,23409500,Sant Martí,45.0,el Clot,3,346,31,71.25
+14272,23426034,Ciutat Vella,58.0,la Barceloneta,3,257,32,522.0
+14331,23479384,Sants-Montjuïc,50.0,Hostafrancs,2,194,32,712.5
+14388,23543687,Gràcia,50.0,la Salut,2,287,32,325.0
+14422,23572022,Ciutat Vella,50.0,el Barri Gòtic,4,313,30,216.67
+14513,23681534,Ciutat Vella,65.0,el Barri Gòtic,3,365,32,0.0
+14563,23718657,Eixample,83.0,l'Antiga Esquerra de l'Eixample,4,304,30,421.92
+14613,23776646,Ciutat Vella,30.0,el Barri Gòtic,3,114,32,627.5
+14654,23813208,Ciutat Vella,60.0,el Raval,4,331,32,170.0
+14681,23856789,Ciutat Vella,47.0,la Barceloneta,4,332,31,129.25
+14689,23866376,Ciutat Vella,61.0,el Raval,4,179,32,945.5
+14691,23868358,Ciutat Vella,199.0,el Raval,4,174,32,3167.42
+14713,23888685,Horta-Guinardó,56.0,Sant Genís dels Agudells,4,263,32,476.0
+14753,23922829,Ciutat Vella,30.0,el Raval,2,225,31,350.0
+14880,24046259,Eixample,89.0,Sant Antoni,4,213,31,1127.33
+14915,24077062,Ciutat Vella,65.0,el Raval,4,174,32,1034.58
+14946,24113131,Eixample,48.0,la Dreta de l'Eixample,2,253,32,448.0
+14963,24138826,Eixample,82.0,Sant Antoni,4,257,31,738.0
+14973,24153870,Ciutat Vella,69.0,el Barri Gòtic,4,350,364,86.25
+15011,24194256,Sants-Montjuïc,75.0,Hostafrancs,5,365,32,0.0
+15014,24196638,Gràcia,100.0,el Camp d'en Grassot i Gràcia Nova,3,180,30,1541.67
+15027,24205626,Ciutat Vella,60.0,el Raval,6,279,32,430.0
+15036,24217003,Ciutat Vella,115.0,el Raval,6,296,32,661.25
+15080,24259621,Sants-Montjuïc,45.0,el Poble Sec,4,270,32,356.25
+15082,24261250,Eixample,63.0,Sant Antoni,2,295,32,367.5
+15182,24355737,Sants-Montjuïc,55.0,el Poble Sec,3,80,31,1306.25
+15215,24388074,Ciutat Vella,150.0,la Barceloneta,3,333,32,400.0
+15260,24424771,Gràcia,80.0,Vallcarca i els Penitents,2,163,32,1346.67
+15340,24464487,Eixample,87.0,Sant Antoni,6,365,32,0.0
+15374,24493402,Gràcia,42.0,el Camp d'en Grassot i Gràcia Nova,2,108,31,899.5
+15396,24528857,Eixample,58.0,la Dreta de l'Eixample,4,364,31,4.83
+15422,24567969,Eixample,70.0,l'Antiga Esquerra de l'Eixample,4,245,32,700.0
+15430,24574630,Ciutat Vella,80.0,"Sant Pere, Santa Caterina i la Ribera",6,331,31,226.67
+15460,24610525,Sant Martí,40.0,la Verneda i la Pau,4,304,32,203.33
+15485,24631006,Gràcia,65.0,la Vila de Gràcia,5,317,32,260.0
+15525,24669775,Eixample,100.0,la Dreta de l'Eixample,4,166,30,1658.33
+15574,24739444,Ciutat Vella,52.0,el Raval,5,335,32,130.0
+15637,24796633,Eixample,130.0,la Dreta de l'Eixample,4,283,31,888.33
+15669,24824238,Ciutat Vella,58.0,el Barri Gòtic,3,365,32,0.0
+15818,24960545,Sant Martí,110.0,el Poblenou,5,138,30,2080.83
+15872,25004232,Eixample,74.0,la Nova Esquerra de l'Eixample,3,314,30,314.5
+15879,25013344,Ciutat Vella,80.0,el Barri Gòtic,5,228,31,913.33
+15928,25063260,Sant Martí,55.0,la Vila Olímpica del Poblenou,3,61,31,1393.33
+16295,25410568,Eixample,90.0,Sant Antoni,4,90,30,2062.5
+16425,25506914,Eixample,80.0,la Dreta de l'Eixample,4,128,31,1580.0
+16460,25527629,Eixample,150.0,la Sagrada Família,5,43,31,4025.0
+16462,25528952,Ciutat Vella,45.0,la Barceloneta,2,330,32,131.25
+16482,25541279,Eixample,99.0,la Sagrada Família,3,34,31,2730.75
+16600,25712520,Ciutat Vella,172.0,la Barceloneta,2,173,31,2752.0
+16616,25727179,Ciutat Vella,70.0,el Raval,5,162,32,1184.17
+16634,25762558,Sant Andreu,40.0,Sant Andreu,4,78,35,956.67
+16661,25788733,Ciutat Vella,100.0,el Barri Gòtic,6,173,32,1600.0
+16685,25807285,Ciutat Vella,56.0,"Sant Pere, Santa Caterina i la Ribera",2,293,32,336.0
+16790,25897963,Sant Martí,59.0,la Vila Olímpica del Poblenou,4,205,31,786.67
+16905,26000199,Sants-Montjuïc,25.0,el Poble Sec,1,134,31,481.25
+16911,26007283,Ciutat Vella,135.0,"Sant Pere, Santa Caterina i la Ribera",6,361,32,45.0
+17039,26140925,Nou Barris,58.0,el Turó de la Peira,4,32,31,1609.5
+17613,26613190,Ciutat Vella,130.0,el Raval,3,111,31,2751.67
+18533,27298515,Ciutat Vella,110.0,el Raval,5,170,32,1787.5
+18794,27471887,Ciutat Vella,160.0,el Raval,4,133,31,3093.33
+18799,27472765,Ciutat Vella,100.0,el Raval,2,104,31,2175.0
