@@ -1,11 +1,11 @@
-neighbourhood_group_cleansed,revenue
-Ciutat Vella,644.72
-Eixample,754.13
-Gràcia,808.24
-Horta-Guinardó,789.11
-Les Corts,643.02
-Nou Barris,767.61
-Sant Andreu,712.08
-Sant Martí,526.14
-Sants-Montjuïc,645.17
-Sarrià-Sant Gervasi,514.33
+neighbourhood_group_cleansed,id,price,accommodates,availability_60,minimum_nights,revenue,std
+Ciutat Vella,15108123.64,118.63,3.86,17.96,2.6,2412.05,1419.36
+Eixample,10651072.57,156.23,4.73,19.62,2.5,3008.02,2351.28
+Gràcia,9764481.88,137.12,4.25,18.63,2.6,2772.51,3363.69
+Horta-Guinardó,12189816.85,157.97,4.25,17.32,2.57,2811.4,2950.29
+Les Corts,11242483.47,213.9,4.04,24.1,2.14,3378.92,9009.62
+Nou Barris,9425841.33,81.11,3.78,17.33,2.78,1638.33,554.59
+Sant Andreu,9365560.5,80.86,4.36,10.18,2.64,2023.45,769.11
+Sant Martí,11183445.38,135.5,4.65,17.84,2.36,2578.45,1798.92
+Sants-Montjuïc,9977894.28,104.22,4.37,18.9,2.67,2053.27,1463.01
+Sarrià-Sant Gervasi,10785275.2,143.72,4.02,22.53,2.34,2503.8,1879.11
