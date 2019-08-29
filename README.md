@@ -1,7 +1,7 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Traditional Rent vs. AirBnB in Barcelona
-*Emanuele Desanctis & Miquel Petit*
+*Emanuele De Sanctis & Miquel Petit*
 
 *Data Analytics Bootcamp June 2019, Ironhack Barcelona*
 
